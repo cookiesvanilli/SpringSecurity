@@ -1,9 +1,6 @@
 package org.example.Model;
 
-import lombok.AllArgsConstructor;
-import lombok.Builder;
-import lombok.NoArgsConstructor;
-import lombok.Data;
+import lombok.*;
 
 import javax.persistence.*;
 
